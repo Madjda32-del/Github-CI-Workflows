@@ -3,7 +3,7 @@
 This repository contains the script to analyze GitHub CI workflows.
 
 ## Files
-- **Script File**: `script.py` - The main Python script for analysis.
+- **Script File**: `script.ipynb` - The main Python script for analysis.
 - **Required Data Files**:
   - `uid_workflows.csv`
   - `workflow.csv`
