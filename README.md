@@ -19,3 +19,6 @@ https://drive.google.com/drive/u/1/folders/1mxTKU5vxfcnTJ8pA2tdsHP6txpjXqUuX
 1. Download the files using the link above.
 2. Place all the downloaded files in the same directory as the script files.
 3. Run the script to verify the results and replicate the analysis.
+
+## Notes
+Make sure to install all necessary dependencies listed in the `requirements.txt` file before running the scripts.
